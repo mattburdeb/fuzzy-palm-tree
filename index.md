@@ -17,3 +17,7 @@ def greet(name):
 if __name__ == "__main__":
     greet("GitHub Learner")
 ```
+
+- [ ] Work out what I am doing
+- [ ] Work through exercises
+- [ ] Trial and error
